@@ -29,6 +29,9 @@ std::cout << "Hello World" << std::endl;
 ~~~python
 print "Hello World"
 ~~~
+~~~java
+System.out.println("Hello World")
+~~~
 
 ### Tabela
 
