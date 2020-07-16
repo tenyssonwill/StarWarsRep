@@ -1,5 +1,5 @@
 # Respositorio do Tenysson em Starwars
 
-![./deathstar.jpg](Estrela morte)
+![Estrela morte](./deathstar.jpg)
 
 Curso de Git e Github
